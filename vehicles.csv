@@ -1,0 +1,6 @@
+vehicle_ID, Model, Make, Year, Engine_type, Price
+1, Creta, Hyundai,2010, DOHC,13495
+2, Convertible, Toyota,2011, OHCV,16500
+3, Hatchback, Mahindra,2012, OHC,17710
+4, Sedan, MG,2014, I,36880
+5, Minivan, Suzuki,2016, OHC,7609

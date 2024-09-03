@@ -1,0 +1,4 @@
+"vehicle_ID";"Model";"Make";"Year";"Engine_type";"Sale_Price"
+2;"Convertible";"Toyota";2011;"OHCV";16000.0
+3;"Hatchback";"Mahindra";2012;"OHC";17500.0
+4;"Sedan";"MG";2014;"I";36000.0
